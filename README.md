@@ -11,4 +11,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=17661977890&theme=vue&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17661977890&langs_count=10&theme=flag-india&layout=compact" alt="sunbin :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17661977890&langs_count=10&theme=flag-india&layout=compact" />
