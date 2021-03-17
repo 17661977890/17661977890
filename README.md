@@ -9,6 +9,6 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{17661977890}/count.svg" alt="sunbin :: Visitor's Count" /></p>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=17661977890&theme=vue&show_icons=true" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=17661977890&theme=vue&show_icons=true" />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17661977890&langs_count=10&theme=flag-india&layout=compact" alt="sunbin :: Top Langs" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17661977890&langs_count=10&theme=flag-india&layout=compact" alt="sunbin :: Top Langs" />
