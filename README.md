@@ -4,7 +4,8 @@
 - 🌱 目前职责：后端研发工程师（java语言方向）
 - 🤔 发展方向：微服务生态、大数据
 - 🙋 期待合作：欢迎各位大佬提供合作机会
-- 📫 联系方式：[Python](17661977890@163.com) [![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=rss&logoColor=white)](https://17661977890.github.io/)
+- 📫 联系方式：[![](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Minutemailer&logoColor=white)](17661977890@163.com)
+ [![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=rss&logoColor=white)](https://17661977890.github.io/)
 - 📋 安排计划：自研电商项目《奇点》的研发、K8S的学习、大数据学习
 
 
