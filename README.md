@@ -7,8 +7,6 @@
 - 📫 联系方式：17661977890@163.com
 - 📋 安排计划：自研电商项目《奇点》的研发、K8S的学习、大数据学习
 
-[![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=rss&logoColor=white)](https://17661977890.github.io/)
-[![](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Minutemailer&logoColor=white)]
 
 <div align="center">
 
