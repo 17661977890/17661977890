@@ -1,7 +1,7 @@
 <h1 align="center">:cn: :soccer: bin :soccer: :cn:</h1>
 
 <div align="center">
-[![](https://img.shields.io/badge/-BLOG-important?style=for-the-badge&logo=Blogger&logoColor=white)](https://17661977890.github.io/)
+  [![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=rss&logoColor=white)](https://17661977890.github.io/)
 </div>
 - 🏢 目前任职：云待电商
 - 🌱 目前职责：后端研发工程师（java语言方向）
