@@ -11,7 +11,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=rss&logoColor=white)](https://17661977890.github.io/)
-[![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=blogger&logoColor=white)]([https://17661977890.github.io/](https://blog.ameilin.com/))
+[![](https://img.shields.io/badge/-BLOG-important?&style=for-the-badge&logo=blogger&logoColor=white)]([https://blog.ameilin.com/])
 ![](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Minutemailer&logoColor=white)
 </div>
 
